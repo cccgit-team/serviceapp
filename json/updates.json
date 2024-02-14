@@ -1,0 +1,20 @@
+{
+  "updates": [
+    {
+      "title": "Book of the Month 1",
+      "description": "A Disciplined Life by Emmanuel Adewusi",
+      "link": "https://www.amazon.ca/Disciplined-Life-Emmanuel-Adewusi-ebook/dp/B0793BRNKN",
+      "image": "https://firebasestorage.googleapis.com/v0/b/cccg-mobile-c246b.appspot.com/o/41HzFqn7mdL.jpg?alt=media&token=4cc23333-6aed-4c16-8b88-47abdc52d077",
+      "display": "yes",
+      "count": "1"
+    },
+    {
+      "title": "Book of the Month 2",
+      "description": "Developing the Leader Within You by John C. Maxwell",
+      "link": "https://www.amazon.ca/Developing-Leader-Within-You-2-0/dp/0718074084",
+      "image": "https://firebasestorage.googleapis.com/v0/b/cccg-mobile-c246b.appspot.com/o/leader.jpg?alt=media&token=03f8a4bd-48be-461d-bab0-fc1aa3b0aafc",
+      "display": "yes",
+      "count": "1"
+    }
+  ]
+}
